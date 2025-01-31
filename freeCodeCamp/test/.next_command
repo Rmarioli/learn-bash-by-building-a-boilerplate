@@ -253,3 +253,5 @@ find
 clear
 rm --help
 rm -r fonts
+clear
+ls --color=auto
