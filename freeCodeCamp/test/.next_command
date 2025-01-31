@@ -268,3 +268,5 @@ more README.md
 echo from the command line >> README.md
 more README.d
 more README.md
+echo from the freeCodeCamp bash lessons >> README.md
+echo for the freeCodeCamp bash lessons >> README.md
