@@ -170,3 +170,4 @@ mv menlo.font menlo.otf
 clera
 clear
 ls --color=auto
+mkdir fonts
