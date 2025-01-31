@@ -281,3 +281,7 @@ clear
 cp -r website-boilerplate toms-website
 ls --color=auto
 ls --color=auto
+find
+clear
+finde toms-website
+find toms-website
