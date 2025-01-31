@@ -146,3 +146,5 @@ cd images
 ls --color=auto
 cd ..
 ls --color=auto
+rm robot.font
+rm background.jpg
