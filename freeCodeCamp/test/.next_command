@@ -142,3 +142,4 @@ mkdir images
 ls --color=auto
 clear
 cp background.jpg images
+cd images
