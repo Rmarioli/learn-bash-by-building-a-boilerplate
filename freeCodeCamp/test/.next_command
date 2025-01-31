@@ -167,3 +167,6 @@ clear
 ls --color=auto
 mv lato.woff lato.ttf
 mv menlo.font menlo.otf
+clera
+clear
+ls --color=auto
