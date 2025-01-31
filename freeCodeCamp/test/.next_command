@@ -122,3 +122,5 @@ ls --color=auto --help
 ls --color=auto --author
 ls --color=auto -l --author
 ls --color=auto -a
+clear
+cd .
