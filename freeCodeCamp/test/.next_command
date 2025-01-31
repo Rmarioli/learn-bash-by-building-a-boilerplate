@@ -149,3 +149,5 @@ ls --color=auto
 rm robot.font
 rm background.jpg
 ls --color=auto
+clear
+cp header.png images
