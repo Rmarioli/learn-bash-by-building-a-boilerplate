@@ -252,3 +252,4 @@ touch client/assets/fonts/lato-light.ttf
 find
 clear
 rm --help
+rm -r fonts
